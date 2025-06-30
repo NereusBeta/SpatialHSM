@@ -6,7 +6,7 @@
 * [Requirements](#Requirements)
 
 * Tutorials
-    * [Spatial domain recognition](blob/main/tutorial/STARmap.ipynb)
+    * [Spatial domain recognition]([blob/main/tutorial/STARmap.ipynb](https://github.com/NereusBeta/SpatialHSM/blob/main/tutorial/STARmap.ipynb))
 
 
 
