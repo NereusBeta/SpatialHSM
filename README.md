@@ -12,7 +12,7 @@
 
 ## Requirements
 
-To install `GraphCellNet`, you must first install [PyTorch](https://pytorch.org) with GPU support. If GPU acceleration is not required, you can skip the installation of `cudnn` and `cudatoolkit`.
+To install `SpatialHSM`, you must first install [PyTorch](https://pytorch.org) with GPU support. If GPU acceleration is not required, you can skip the installation of `cudnn` and `cudatoolkit`.
 
 python == 3.9  
 torch == 1.13.0  
@@ -26,6 +26,7 @@ scikit-learn == 1.4.1.post1
 pip3 install torch==1.12.1.0+cu113 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
 
 pip3 install torch==1.12.1 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）    
+
 
 
 
