@@ -6,7 +6,7 @@
 * [Requirements](#Requirements)
 
 * Tutorials
-    * [Spatial domain recognition]([blob/main/tutorial/STARmap.ipynb](https://github.com/NereusBeta/SpatialHSM/blob/main/tutorial/STARmap.ipynb))
+    * [STARmap]([blob/main/tutorial/STARmap.ipynb](https://github.com/NereusBeta/SpatialHSM/blob/main/tutorial/STARmap.ipynb))
 
 
 
@@ -26,4 +26,5 @@ scikit-learn == 1.4.1.post1
 pip3 install torch==1.12.1.0+cu113 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
 
 pip3 install torch==1.12.1 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）    
+
 
