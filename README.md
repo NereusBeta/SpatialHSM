@@ -1,4 +1,4 @@
-# GraphCellNet: A Deep Learning Method for Integrated Single-Cell and Spatial Transcriptomic Analysis with Applications in Development and Disease
+# SpatialHSM: A Multi-Scale Spatial Domain Identification Framework via Frequency–State Fusion and Contrastive Learning
 
 
 
@@ -26,3 +26,4 @@ scikit-learn == 1.4.1.post1
 pip3 install torch==1.12.1.0+cu113 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
 
 pip3 install torch==1.12.1 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）    
+
